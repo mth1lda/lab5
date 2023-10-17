@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/motomoto"
+        android:title="eeeee"
+        android:icon="@drawable/ic_baseline_two_wheeler_24"
+    />
+    <item
+        android:id="@+id/train"
+        android:title="aaa"
+        android:icon="@drawable/ic_baseline_train_24"
+        />
+    <item
+        android:id="@+id/awesome"
+        android:title="text"
+        android:icon="@drawable/ic_baseline_auto_awesome_24"
+        />
+</menu>
